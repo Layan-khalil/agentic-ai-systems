@@ -17,7 +17,9 @@ Integrate AI capabilities into end-to-end workflows
 
 Each agent is designed as an independent system with a clearly defined objective, workflow, and technical implementation.
 
-🤖 Agents
-Agent	Description	Core Technologies
-YouTube Research Agent	Automatically discovers relevant YouTube videos and extracts structured multilingual transcripts for research workflows.	Python, Selenium, YouTube Transcript API
-Coming Soon	More agents and intelligent automation systems.	—
+## 🤖 Agents
+
+| Agent | Purpose | Technologies |
+|---|---|---|
+| **YouTube Research Agent** | Automated YouTube discovery and structured transcript extraction for research workflows. | Python, Selenium, YouTube Transcript API |
+| **More Agents** | Additional AI agents and intelligent automation systems in development. | — |
